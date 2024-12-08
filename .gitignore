@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Python ignored files
+__pycache__/
+.idea/
+# Folders
+/images
+/_DOCUMENTS
+/Output
+/trash
+# SUPABASE acces
+.env
